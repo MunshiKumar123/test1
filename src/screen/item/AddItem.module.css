@@ -1,0 +1,18 @@
+.main {
+    text-align: center;
+}
+
+.itemHead {
+    font-size: '20px';
+    line-height: '30px';
+    font-weight: 700;
+}
+
+.itemInputMain {
+    margin: auto;
+    background-color: #7F56D9;
+    padding: 20px;
+    border-radius: 6px;
+    width: 500px;
+    height: auto;
+}
